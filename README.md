@@ -34,7 +34,7 @@
 
 <br>
 
-<p>Over the course of the weekend, we created a rudimentary system for hitting all five APIs at the same time and appending the responses into a single result.</p>
+<p>Over the course of the weekend, we created a rudimentary system for hitting all five APIs at the same time and appending the responses into a single result.
 
 <br>
 
