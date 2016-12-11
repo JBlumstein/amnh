@@ -13,4 +13,10 @@
 
 <h2>Hacking the Stacks</h2>
 
-<p>On the weekend of November 18th-20th, I participated in the American Museum of Natural History's <em>Hack the Stacks</em> hackathon. I joined the AMNH API Portal team, in a challenge that organizations in all sectors face<&em;>
+<p>On the weekend of November 18th-20th, I participated in the American Museum of Natural History's <em>Hack the Stacks</em> hackathon. I joined the AMNH API Portal team, in a challenge that organizations in all sectors face&mdash;creating a layer for calling multiple APIs simaltaneously and joining the responses into single entries.</p>
+
+<p>The AMNH has five APIs that staff and patrons routinely call for information on research subjects. Currently each API has its own portal, requiring the user to search five times and them manually join the results into a coherent entry on the topic.
+
+<p>Over the course of the weekend, we created a rudimentary system for hitting all five APIs at the same time and appending the responses into a single result.</p>
+
+<p>My piece of the work involved figuring out how to get results from one of the data source's, the AMNH Library's Catalog. The Catalog includes information on 
