@@ -62,8 +62,16 @@
 
 <h3>End Notes</h3>
 
-<p>In the end, I think what was most valuable for me about the hackathon was being able to work with a team and to feel like I made a contribution. I was by far the least experienced technologist on my team, which consisted of five software developers and me. Still, I had enough knowledge to be able to successfully figure out how to work with the Library Catalog and get the data my team needed. More importantly, I enjoyed working on a team. Because I was able to successfully contribute, I was respected and treated like an equal. It was fun to work with a smart, positive, interesting group on a technical challenge.
+<p>In the end, I think what was most valuable for me about the hackathon was being able to work with a team and to feel like I made a contribution. I was by far the least experienced technologist on my team, which consisted of five software developers and me. Still, I had enough knowledge to be able to successfully figure out how to work with the Library Catalog and get the data my team needed. More importantly, I enjoyed working on a team. Because I was able to successfully contribute, I was respected and treated like an equal. It was fun to work with a smart, positive, interesting group on a technical challenge. I want to thank Joseph Spens, Evan Hammer, Jesse Lee, Alex Washburn, and Tom Lavenziano for being just generally awesome.
 
 <p>Finally, it was a big bonus for me that I was able to help out a cultural organization I've always loved (my mom noted that eight-year-old me would have killed to sleep under the dinosaurs on the 4th floor on the museum, which I got to do on Saturday night). 
+
+<br>
+
+<img src="/hello_dino.jpg">
+
+<p><em>Hello, dino!</em>
+
+<br>
 
 <p>Overall, a fantastic weekend.
